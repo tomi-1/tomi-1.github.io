@@ -1100,6 +1100,11 @@ progress {
     flex: 1 0 0%;
   }
 
+@media (min-width: 768px) {
+  li {
+    font-size: 1rem;
+  }
+
   .row-cols-md-auto > * {
     flex: 0 0 auto;
     width: auto;
