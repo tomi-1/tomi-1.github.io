@@ -1100,7 +1100,7 @@ progress {
     flex: 1 0 0%;
   }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   ul li {
     font-size: 1rem;
   }
