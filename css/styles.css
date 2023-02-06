@@ -1101,7 +1101,7 @@ progress {
   }
 
 @media (max-width: 768px) {
-  ul li {
+  a li {
     font-size: 1rem;
   }
     
