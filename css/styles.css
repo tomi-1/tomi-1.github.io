@@ -1101,8 +1101,10 @@ progress {
   }
 
 @media (min-width: 768px) {
-  .dev-icons {
-    font-size: 2rem;
+  ul li {
+    font-size: 1rem;
+  }
+    
   }
 
   .row-cols-md-auto > * {
